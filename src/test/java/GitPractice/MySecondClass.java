@@ -9,7 +9,7 @@ public class MySecondClass {
         String [] arr2 = new String[arr.length];
         for (int i = 0; i < arr.length; i++) {
             for (int j = arr[i].length()-1; j >=0; j--) {
-
+// some comments
             }
         }
         System.out.println(Arrays.toString(arr2));
